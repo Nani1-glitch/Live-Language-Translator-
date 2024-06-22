@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Live Translation</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Live Translation</h1>
+        <div class="form-group">
+            <label for="source-language">Select Source Language:</label>
+            <select id="source-language">
+                {% for lang in languages.keys() %}
+                    <option value="{{ languages[lang] }}">{{ lang }}</option>
+                {% endfor %}
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="target-language">Select Target Language:</label>
+            <select id="target-language">
+                {% for lang in languages.keys() %}
+                    <option value="{{ languages[lang] }}">{{ lang }}</option>
+                {% endfor %}
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="audio-input">Upload Audio:</label>
+            <input type="file" id="audio-input" accept="audio/*">
+        </div>
+        <button id="translate-button" class="button">Translate</button>
+        <button id="listen-button" class="button">Listen</button>
+        <div id="results">
+            <h2>Results:</h2>
+            <p><strong>Recognized Text:</strong> <span id="recognized-text"></span></p>
+            <p><strong>Translated Text:</strong> <span id="translated-text"></span></p>
+            <audio id="translated-audio" controls></audio>
+        </div>
+    </div>
+    <div id="popup" class="popup">
+        <p>I am listening...</p>
+    </div>
+    <script src="{{ url_for('static', filename='scripts.js') }}"></script>
+</body>
+</html>
