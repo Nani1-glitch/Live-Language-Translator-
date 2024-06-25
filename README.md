@@ -13,7 +13,7 @@
 
 ## 📹 Demo Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wqHIiMX3V-U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Live Translation Demo](https://img.youtube.com/vi/wqHIiMX3V-U/maxresdefault.jpg)](https://www.youtube.com/watch?v=wqHIiMX3V-U)
 
 
 ## 📖 How It Works
@@ -27,9 +27,6 @@
 
 We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting a pull request.
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 🌟 Acknowledgements
 
@@ -39,12 +36,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📞 Contact
 
-For any inquiries, please contact [Your Name](mailto:your.email@example.com).
-
-<div align="center">
-    Made with ❤️ by [Your Name](https://github.com/your-username)
-</div>
-
+For any inquiries, please contact [Your Name](mailto:nithinrajulapati9999@gmail.com).
 
 ## 🛠️ Setup Instructions
 
@@ -86,6 +78,10 @@ Make sure you have the following installed:
 
     Open your web browser and go to `http://127.0.0.1:5000`.
 
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 ### Project Structure
 
 ```plaintext
@@ -99,3 +95,6 @@ live-voice-translation/
 │   └── index.html       # HTML template
 └── README.md            # Project README
 
+<div align="center">
+    Made with ❤️ by [Your Name](https://github.com/your-username)
+</div>
