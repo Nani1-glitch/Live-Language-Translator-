@@ -1,6 +1,6 @@
 # 🌐 Live Voice Language Translation 🌐
 
-![Project Logo]([https://example.com/logo.png](https://www.addevice.io/storage/ckeditor/uploads/images/637ba6f15f60e_how.to.create.a.voice.translation.app.1920.1080.1.png))
+![Project Logo]([(https://www.addevice.io/storage/ckeditor/uploads/images/637ba6f15f60e_how.to.create.a.voice.translation.app.1920.1080.1.png)]
 
 🚀 **Live Voice Language Translation** is a real-time voice translation application that translates spoken language into a user-selected language, displaying the text on a screen and also playing the translated audio. This project is developed using Python with Flask for the backend and HTML, CSS, and JavaScript for the frontend.
 
