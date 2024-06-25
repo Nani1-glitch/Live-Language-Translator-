@@ -1,6 +1,6 @@
 # 🌐 Live Voice Language Translation 🌐
 
-![Project Logo]([https://livedatacdn.ilivedata.com/images/home/rtvt/rtvt_banner.png])
+![Project Logo](https://livedatacdn.ilivedata.com/images/home/rtvt/rtvt_banner.png)
 
 🚀 **Live Voice Language Translation** is a real-time voice translation application that translates spoken language into a user-selected language, displaying the text on a screen and also playing the translated audio. This project is developed using Python with Flask for the backend and HTML, CSS, and JavaScript for the frontend.
 
