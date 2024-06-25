@@ -36,7 +36,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 ## 📞 Contact
 
-For any inquiries, please contact [Your Name](mailto:nithinrajulapati9999@gmail.com).
+For any inquiries, please contact [Nithin Rajulapati](mailto:nithinrajulapati9999@gmail.com).
 
 ## 🛠️ Setup Instructions
 
@@ -55,7 +55,7 @@ Make sure you have the following installed:
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/your-username/live-voice-translation.git
+    git clone https://github.com/Nani1-glitch/live-voice-translation.git
     cd live-voice-translation
     ```
 
@@ -83,7 +83,7 @@ Make sure you have the following installed:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 <div align="center">
-    Made with ❤️ by [Your Name](https://github.com/your-username)
+    Made with ❤️ by [Nithin Rajulapati](https://github.com/Nani1-glitch)
 </div>
 
 
