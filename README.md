@@ -13,7 +13,7 @@
 
 ## 📹 Demo Video
 
-[![Live Translation Demo](https://img.youtube.com/vi/your-video-id/maxresdefault.jpg)](https://www.youtube.com/watch?v=your-video-id)
+![Live Translation Demo](/Users/nithinrajulapati/Downloads/Screen Recording 2024-06-24 at 7.50.42 PM.mov)
 
 ## 📖 How It Works
 
